@@ -1,0 +1,55 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11150</md:content-id>
+    <md:title>IMMIGRATION IN THE UNITED STATES AND SPAIN: CONSIDERATION FOR EDUCATIONAL LEADERS</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>deb15bd9-a65f-4476-b0e9-7cd20870f4b2</md:uuid>
+<md:slug>immigration-in-the-united-states-and-spain-consideration-for-educational-leaders</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m33226"/>
+    <col:module document="m33227"/>
+    <col:subcollection>
+      <md:title>PART ONE: HISPANICS IN THE UNITED STATES, IMMIGRANTS IN SPAIN</md:title>
+      <col:content>
+        <col:module document="m33201"/>
+        <col:module document="m33171"/>
+        <col:module document="m33203"/>
+        <col:module document="m33169"/>
+        <col:module document="m33198"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>PART TWO: EDUCATION FOR IMMIGRANT CHILDREN</md:title>
+      <col:content>
+        <col:module document="m33197"/>
+        <col:module document="m33202"/>
+        <col:module document="m33206"/>
+        <col:module document="m33204"/>
+        <col:module document="m33205"/>
+        <col:module document="m33208"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>PART THREE: THE POLITICAL STRUGGLE OF HISPANICS IN THE UNITED STATES</md:title>
+      <col:content>
+        <col:module document="m33210"/>
+        <col:module document="m33211"/>
+        <col:module document="m33212"/>
+        <col:module document="m33216"/>
+        <col:module document="m33213"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>PART FOUR: SOCIAL, CULTURAL, AND RELIGIOUS ISSUES</md:title>
+      <col:content>
+        <col:module document="m33214"/>
+        <col:module document="m33220"/>
+        <col:module document="m33221"/>
+        <col:module document="m33224"/>
+        <col:module document="m33225"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
