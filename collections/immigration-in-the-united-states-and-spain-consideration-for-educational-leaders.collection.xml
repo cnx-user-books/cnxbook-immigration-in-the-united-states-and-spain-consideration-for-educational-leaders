@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Beverly Irby">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11150</md:content-id>
     <md:title>IMMIGRATION IN THE UNITED STATES AND SPAIN: CONSIDERATION FOR EDUCATIONAL LEADERS</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>deb15bd9-a65f-4476-b0e9-7cd20870f4b2</md:uuid>
-<md:slug>immigration-in-the-united-states-and-spain-consideration-for-educational-leaders</md:slug>
-</metadata>
+    <md:slug>immigration-in-the-united-states-and-spain-consideration-for-educational-leaders</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m33226"/>
     <col:module document="m33227"/>
