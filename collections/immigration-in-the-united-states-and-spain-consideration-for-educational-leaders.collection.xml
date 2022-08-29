@@ -1,3 +1,154 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11174</md:content-id>  <md:title>IMMIGRATION IN THE UNITED STATES AND SPAIN: CONSIDERATIONS FOR EDUCATIONAL LEADERS</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>d0928313-2f46-4d81-8f1a-1adcb8a77f1c</md:uuid>
-<md:slug>immigration-in-the-united-states-and-spain-consideration-for-educational-leaders</md:slug>
-</metadata>  <col:content>          <col:module document="m33931"/>                            <col:module document="m33227"/>                                          <col:subcollection>        <md:title>The Changing Demography of Latino Immigrants in the United States: From 1980 to Present</md:title>                                <col:content>                    <col:module document="m33201"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Strategies and Processes of Adaptation in Immigration</md:title>                                <col:content>                    <col:module document="m33171"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The Socio-economic Development of Hispanics in the United States: In Search of a Theory</md:title>                                <col:content>                    <col:module document="m33203"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The Emmigration of Foreign Workers to Spain: A New and Relevant Phenomenon in the History of Spain</md:title>                                <col:content>                    <col:module document="m33169"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>A Reflection: The Other Faces of Immigration</md:title>                                <col:content>                    <col:module document="m33198"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Upon the Schoolhouse Steps: Immigration and Education</md:title>                                <col:content>                    <col:module document="m33371"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Bilingual Education: Past, Present, Future</md:title>                                <col:content>                    <col:module document="m33197"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Diglossia, Assimilation, and Bilingualism Among the Hispanics in the United States</md:title>                                <col:content>                    <col:module document="m33202"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Education of Immigrant Students in the Community of Madrid</md:title>                                <col:content>                    <col:module document="m33930"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Immigrants in a Municipality Near Madrid: The Teaching of Spanish and Health Education</md:title>                                <col:content>                    <col:module document="m33204"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>My Experience as a Professor in an Institute With Immigrants in Extremadura</md:title>                                <col:content>                    <col:module document="m33205"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Knowledge of Language, Learning, and Intercultural Coexistence</md:title>                                <col:content>                    <col:module document="m33208"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The Chicano Movement: Dead or Alive?</md:title>                                <col:content>                    <col:module document="m33210"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The Criminal Justice System as an Assimilation Milieu for the Hispanic Immigrant </md:title>                                <col:content>                    <col:module document="m33211"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The Threat of Terrorism in the United States: The Emotional Answer of a Nation in War </md:title>                                <col:content>                    <col:module document="m33212"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Racial Attitudes and Religious Social Work: The Texas-Mexican and the U.S. Catholic Church </md:title>                                <col:content>                    <col:module document="m33216"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>A Reflection: Function of Religiousness in the Hispanic Community in the USA and its Comparison With Spain</md:title>                                <col:content>                    <col:module document="m33213"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Faith as an Instrument of Integration Among Islamic Immigrants: The Case of Extramadura (Spain), A New Civilization </md:title>                                <col:content>                    <col:module document="m33214"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Immigration and Religion: Rituals Alive Today in Peru and Spain </md:title>                                <col:content>                    <col:module document="m33220"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Non-communitarian Immigrant Women in the Work Market in Spain </md:title>                                <col:content>                    <col:module document="m33221"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>AIDS Prevention Among Latino Teens: The Role of Family Acculturation </md:title>                                <col:content>                    <col:module document="m33224"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Expansion of Mass Media in Spanish in the United States: The Success Story of La Opinión of Los Angeles </md:title>                                <col:content>                    <col:module document="m33432"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The Changing Hispanic/Latino Population in Texas and the United States</md:title>                                <col:content>                    <col:module document="m33460"/>                          </col:content>      </col:subcollection>              <col:module document="m33487"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Beverly Irby">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11174</md:content-id>
+    <md:title>IMMIGRATION IN THE UNITED STATES AND SPAIN: CONSIDERATIONS FOR EDUCATIONAL LEADERS</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>d0928313-2f46-4d81-8f1a-1adcb8a77f1c</md:uuid>
+    <md:slug>immigration-in-the-united-states-and-spain-consideration-for-educational-leaders</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m33931"/>
+    <col:module document="m33227"/>
+    <col:subcollection>
+      <md:title>The Changing Demography of Latino Immigrants in the United States: From 1980 to Present</md:title>
+      <col:content>
+        <col:module document="m33201"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Strategies and Processes of Adaptation in Immigration</md:title>
+      <col:content>
+        <col:module document="m33171"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Socio-economic Development of Hispanics in the United States: In Search of a Theory</md:title>
+      <col:content>
+        <col:module document="m33203"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Emmigration of Foreign Workers to Spain: A New and Relevant Phenomenon in the History of Spain</md:title>
+      <col:content>
+        <col:module document="m33169"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>A Reflection: The Other Faces of Immigration</md:title>
+      <col:content>
+        <col:module document="m33198"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Upon the Schoolhouse Steps: Immigration and Education</md:title>
+      <col:content>
+        <col:module document="m33371"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Bilingual Education: Past, Present, Future</md:title>
+      <col:content>
+        <col:module document="m33197"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Diglossia, Assimilation, and Bilingualism Among the Hispanics in the United States</md:title>
+      <col:content>
+        <col:module document="m33202"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Education of Immigrant Students in the Community of Madrid</md:title>
+      <col:content>
+        <col:module document="m33930"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Immigrants in a Municipality Near Madrid: The Teaching of Spanish and Health Education</md:title>
+      <col:content>
+        <col:module document="m33204"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>My Experience as a Professor in an Institute With Immigrants in Extremadura</md:title>
+      <col:content>
+        <col:module document="m33205"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Knowledge of Language, Learning, and Intercultural Coexistence</md:title>
+      <col:content>
+        <col:module document="m33208"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Chicano Movement: Dead or Alive?</md:title>
+      <col:content>
+        <col:module document="m33210"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Criminal Justice System as an Assimilation Milieu for the Hispanic Immigrant </md:title>
+      <col:content>
+        <col:module document="m33211"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Threat of Terrorism in the United States: The Emotional Answer of a Nation in War </md:title>
+      <col:content>
+        <col:module document="m33212"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Racial Attitudes and Religious Social Work: The Texas-Mexican and the U.S. Catholic Church </md:title>
+      <col:content>
+        <col:module document="m33216"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>A Reflection: Function of Religiousness in the Hispanic Community in the USA and its Comparison With Spain</md:title>
+      <col:content>
+        <col:module document="m33213"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Faith as an Instrument of Integration Among Islamic Immigrants: The Case of Extramadura (Spain), A New Civilization </md:title>
+      <col:content>
+        <col:module document="m33214"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Immigration and Religion: Rituals Alive Today in Peru and Spain </md:title>
+      <col:content>
+        <col:module document="m33220"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Non-communitarian Immigrant Women in the Work Market in Spain </md:title>
+      <col:content>
+        <col:module document="m33221"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>AIDS Prevention Among Latino Teens: The Role of Family Acculturation </md:title>
+      <col:content>
+        <col:module document="m33224"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Expansion of Mass Media in Spanish in the United States: The Success Story of La Opini&#xF3;n of Los Angeles </md:title>
+      <col:content>
+        <col:module document="m33432"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Changing Hispanic/Latino Population in Texas and the United States</md:title>
+      <col:content>
+        <col:module document="m33460"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m33487"/>
+  </col:content>
+</col:collection>
